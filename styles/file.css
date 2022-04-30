@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+  }
+ #location{
+   width: 70%;
+   margin: auto;
+   margin-top: 1%;
+   font-size: 20px;
+   background-color: white;
+   height: 50px;
+   border-radius: 50px;
+   text-align: center;
+ }
+ #content{
+   width: 80%;
+   margin: auto;
+   margin-top: 5%;
+   text-align: center;
+   padding: 10% 5%;
+   border-radius: 10px;
+   background-color:#ff385c;
+   font-size: 25px;
+   color: white;
+ }
+ #content > button{
+   padding: 10px 15px;
+   border-radius: 10px;
+   border: 1px solid white ;
+   background-color: #ff385c;
+   color: white;
+ }
